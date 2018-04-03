@@ -1,2 +1,2 @@
 # MeanStack
-testando 
+testando conceitos de MeanStack
